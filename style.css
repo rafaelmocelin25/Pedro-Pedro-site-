@@ -15,6 +15,7 @@
 }
 .cabecalho{
     background-color: black;
+    display:flex ;
 }
 .cabecalho-redes-nome{
     color: rgb(255, 255, 255);
