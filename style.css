@@ -19,3 +19,8 @@
 .cabecalho-redes-nome{
     color: rgb(255, 255, 255);
 }
+.cabecalho-redes-nome:hover{
+    font-size: 20px;   
+    text-decoration: underline ;
+    color: rgb(187, 0, 255);
+}
