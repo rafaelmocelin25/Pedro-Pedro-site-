@@ -25,3 +25,15 @@
     text-decoration: underline ;
     color: rgb(187, 0, 255);
 }
+.pedro-icone{
+    width: 35px;
+    font-size: 35px;   
+    text-decoration: underline ;
+    filter: opacity(75%);
+}
+.pedro-icone:hover{
+    width: 45px;
+    font-size: 35px;   
+    text-decoration: underline ;
+    filter: opacity(100%);
+}
