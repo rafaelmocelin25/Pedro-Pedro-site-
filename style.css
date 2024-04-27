@@ -4,3 +4,7 @@
 .cabecalho-redes-icone{
     width: 45px;
 }
+.cabecalho-redes-icone:hover{
+    font-size: 35px;   
+    text-decoration: underline ;
+    filter: opacity(100%);
