@@ -8,3 +8,10 @@
     font-size: 35px;   
     text-decoration: underline ;
     filter: opacity(100%);
+}
+.cabecalho{
+    background-color: black;
+}
+.redes-nome{
+    color: blanchedalmond;
+}
