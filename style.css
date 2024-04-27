@@ -2,13 +2,13 @@
     width: auto;
 }
 .cabecalho-redes-icone{
-    width: 45px;
+    width: 35px;
     font-size: 35px;   
     text-decoration: underline ;
     filter: opacity(75%);
 }
 .cabecalho-redes-icone:hover{
-    width: 55px;
+    width: 45px;
     font-size: 35px;   
     text-decoration: underline ;
     filter: opacity(100%);
