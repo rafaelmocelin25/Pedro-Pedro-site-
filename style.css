@@ -1,3 +1,7 @@
+.cabecalho{
+    position: sticky;
+ top: auto;
+}
 .cabecalho-pedro-img{
     width: auto;
 }
